@@ -1,0 +1,4 @@
+/app/backend-api/src/main/java/cl/duoc/backend_api/BackendApiApplication.java
+/app/backend-api/src/main/java/cl/duoc/backend_api/controller/FavoritoController.java
+/app/backend-api/src/main/java/cl/duoc/backend_api/model/Favorito.java
+/app/backend-api/src/main/java/cl/duoc/backend_api/repository/FavoritoRepository.java
